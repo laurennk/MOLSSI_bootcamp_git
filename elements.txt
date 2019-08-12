@@ -1,5 +1,6 @@
 Hydrogen
 	Atomic number: 1
+  Atomic Mass: 1.008
 Helium
 	Atomic number: 2
 Lithium
